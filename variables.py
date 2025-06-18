@@ -6,6 +6,6 @@ totalCount = 5
 userName = "John"
 
 # Invalid Variables
-1stVariable = 10   # cannot start with a number
-total-count = 5    # cannot contain hyphens
-user name = "John"  # cannot contain spaces
+#1stVariable = 10   # cannot start with a number
+#total-count = 5    # cannot contain hyphens
+#user name = "John"  # cannot contain spaces
